@@ -18,7 +18,7 @@ int status;
 mxArray *h=NULL, *i=NULL, *j=NULL,*k=NULL;
 mxArray *out;
 double *result;
-
+int test;
 
 double fn_matlab_init()
 {
